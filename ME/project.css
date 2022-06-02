@@ -1,0 +1,45 @@
+/* Portfolio */
+.portfolio .container h2{
+    margin-top: .5rem;
+    }
+    .projects{
+    display: flex;
+    flex-wrap: wrap;
+    padding: .5rem;
+    }
+    .project{
+    flex: 1;
+    padding: 1.5rem;
+    
+    }
+    .img-container img{
+    max-width: 450px;
+    }
+    .project-content{
+    max-width: 450px;
+    
+    }
+    .stack-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .2rem;
+    margin-right: 1rem;
+    }
+    
+    .stack-container li {
+    list-style: none;
+    
+    }
+    
+    .stack-container li a {
+    color: #000;
+    font-weight: 600;
+    }
+    
+    .btn-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    }

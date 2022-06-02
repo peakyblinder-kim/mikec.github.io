@@ -1,0 +1,51 @@
+/* Contact */
+
+.contact-content {
+    display: flex;
+    padding: 1rem;
+    }
+    
+    .contact-content .column {
+    flex: 1;
+    padding: 1rem;
+    }
+    
+    .contact-text{
+    margin-top: 1rem;
+    }
+    .row{
+    display: flex;
+    padding: .5rem;
+    }
+    
+    .row i{
+    padding: 1rem;
+    color: #0000ff;
+    }
+    
+    .row .info {
+    margin-top: .8rem;
+    }
+    
+    .contact-form .form-group {
+    margin: 0.75rem;
+    }
+    
+    .contact-form label {
+    display: block;
+    }
+    
+    .contact-form .field,
+    .contact-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: .2rem;
+    }
+    
+    .contact-form textarea{
+    height: 8rem;
+    }
+    
+    .contact-content .column .contact-form .btn{
+    margin-left: .8rem;
+    }

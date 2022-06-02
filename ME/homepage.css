@@ -1,0 +1,32 @@
+#home{
+    display: flex;
+    background: url("/images/showcase.jpg") no-repeat center;
+    height: 100vh;
+    min-height: 500px;
+    }
+    
+    #home .container{
+    margin: auto 0px auto 2rem;
+    }
+    
+    #home .home-content .text-1{
+    font-size: 29px;
+    margin: 1.2rem;
+    }
+    #home .home-content .text-2{
+    font-size: 65px;
+    font-weight: 500;
+    margin: 1rem;
+    }
+    #home .home-content .text-3{
+    font-size: 32px;
+    margin: 1.2rem;
+    }
+    #home .home-content .text-3 span{
+    color: #0000ff;
+    font-weight: 600;
+    }
+    #home .btn{
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    }

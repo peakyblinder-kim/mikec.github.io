@@ -1,0 +1,41 @@
+/* About */
+#about p{
+    padding: .5rem;
+    margin-bottom: 0.5rem;
+    }
+    #about .btn{
+    margin-left: .5rem;
+    }
+    .about-content {
+    display: flex;
+    padding: 1rem;
+    }
+    
+    .about-content .column {
+    flex: 1;
+    padding: 1rem;
+    }
+    
+    .pro-languages{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    }
+    .pro-languages .language {
+    flex: 1;
+    text-align: center;
+    padding: 1rem ;
+    margin: 1.32rem;
+    }
+    
+    .pro-languages .language i {
+    background: blue;
+    border-radius: 50%;
+    margin-bottom: .5rem;
+    margin-top: -1rem;
+    }
+    
+    .pro-languages .language h3 {
+    margin-bottom: 2rem;
+    }
